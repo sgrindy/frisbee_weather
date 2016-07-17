@@ -1,0 +1,170 @@
+notes:
+need forecasts for: 
+    
+    2014 college women:    
+        Tournament: Chicago-Invite-College
+        date: 2014-03-29
+
+        Tournament: Southerns
+        date: 2014-03-22
+
+        Tournament: Presidents-Day-Invitational-2014
+        date: 2014-02-16
+
+        Tournament: NW-Challenge
+        date: 2014-03-29
+
+        Tournament: Santa-Barbara-Invite
+        date: 2014-01-25
+
+
+        Tournament: Florida-Winter-Classic-Womens
+        date: 2014-01-19
+
+    2015 club mixed:
+        Tournament: US-Open-Ultimate-Championships-2015
+        date: '2015-07-03'
+        
+        Tournament: US-Open-Ultimate-Championships-2015
+        date: '2015-07-04'
+        
+    2015 club women:
+        Tournament: US-Open-Ultimate-Championships-2015
+        date: '2015-07-03'
+        
+        Tournament: US-Open-Ultimate-Championships-2015
+        date: '2015-07-04'
+        
+    2016 college men:
+        Tournament: River-City-Tune-Up-6
+        date: 2016-03-21
+
+        Tournament: Presidents-Day-Tournament-2016
+        date: 2016-02-14
+
+        Tournament: Greatest-Crusade-II
+        date: 2016-04-03
+
+        Tournament: Stanford-Open-2016
+        date: 2016-02-28
+
+        Tournament: Presidents-Day-Tournament-2016
+        date: 2016-02-16
+
+        Tournament: Dust-Bowl-2016
+        date: 2016-02-29
+
+        Tournament: Jersey-Devil-5-2016
+        date: 2016-03-28
+
+        Tournament: Chesapeake-Classic-2016
+        date: 2016-03-07
+
+        Tournament: Warm-up-A-Florida-Affair-2016
+        date: 2016-02-13
+
+        Tournament: Santa-Barbara-Qualifier-2016
+        date: 2016-01-11
+
+        Tournament: College-Easterns-2016
+        date: 2016-03-19
+
+        Tournament: 22nd-Annual-Layout-Pigout-2016
+        date: 2016-03-21
+
+        Tournament: Easterns-Qualifier-2016
+        date: 2016-02-22
+
+        Tournament: T-Town-Throwdown-XII
+        date: 2016-02-01
+
+        Tournament: 2nd-Annual-West-Point-Classic-2016
+        date: 2016-03-07
+
+        Tournament: Steel-City-B-Team-Brodown-2016
+        date: 2016-04-02
+
+        Tournament: DIII-Midwestern-Invite-2016
+        date: 2016-02-22
+
+        Tournament: DIII-Midwestern-Invite-2016
+        date: 2016-02-20
+
+        Tournament: Jersey-Devil-Indoor-2016
+        date: 2016-02-19
+
+        Tournament: Northwest-Challenge-2016
+        date: 2016-03-26
+
+        Tournament: Stanford-Open-2016
+        date: 2016-02-19
+
+        Tournament: Big-D-in-Little-d-2016
+        date: 2016-02-01
+
+        Tournament: Bring-the-Huckus-6
+        date: 2016-02-29
+
+        Tournament: Atlantic-City-6
+        date: 2016-03-14
+
+        Tournament: Stanford-Open-2016
+        date: 2016-02-22
+
+        Tournament: Santa-Barbara-Invite-2016
+        date: 2016-01-30
+
+    2016 college women:
+        Tournament: Midwest-Throwdown-2016
+        date: 2016-03-07
+
+        Tournament: Northwest-Challenge-2016
+        date: 2016-03-28
+
+        Tournament: Presidents-Day-Tournament-2016
+        date: 2016-02-14
+
+        Tournament: Big-D-in-Little-d-Women-2016
+        date: 2016-02-22
+
+        Tournament: College-Southerns-XV
+        date: 2016-03-21
+
+        Tournament: Presidents-Day-Qualifier-2016
+        date: 2016-01-25
+
+        Tournament: Stanford-Open-2016
+        date: 2016-02-22
+
+        Tournament: Santa-Barbara-Qualifier-2016
+        date: 2016-01-11
+
+        Tournament: Presidents-Day-Tournament-2016
+        date: 2016-02-16
+
+        Tournament: Tally-Classic-XI-2016
+        date: 2016-03-07
+
+        Tournament: Commonwealth-Cup-2016
+        date: 2016-02-29
+
+        Tournament: DIII-Midwestern-Invite-2016
+        date: 2016-02-20
+
+        Tournament: Northwest-Challenge-2016
+        date: 2016-03-26
+
+        Tournament: College-Easterns-2016
+        date: 2016-03-19
+
+        Tournament: College-Easterns-2016
+        date: 2016-03-21
+
+        Tournament: Stanford-Invite-2016
+        date: 2016-03-07
+
+        Tournament: Santa-Barbara-Invite-2016
+        date: 2016-01-30
+
+        Tournament: Santa-Barbara-Invite-2016
+        date: 2016-02-01
